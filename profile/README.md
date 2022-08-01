@@ -35,6 +35,14 @@ domains of bioinformatics featuring:
   * intuitive workflow parameters distilled from the feedback of hundreds of
     scientists
 
+#### What is Verified?
+
+  * [Bulk RNA-seq](https://github.com/latch-verified/bulk-rnaseq) produces transcript/gene counts from your sequencing data
+  * [Differential Expression](https://github.com/latch-verified/diff-exp) creates a list of significant transcripts/genes
+from a controlled experiment
+  * [Pathway Analysis](https://github.com/latch-verified/pathway) implicates pathways + gene ontologies from significant
+genes
+
 #### Why the LatchBio SDK
 
 The previous generation of bioinformatics frameworks, eg. nextflow, Snakemake,

@@ -57,3 +57,5 @@ mission-critical features:
   * How the SDK fits into a broader [BioDevelopment Framework](https://latchbio.substack.com/p/bio-dev-fw)
   * An overview of the [motivations and features](https://latchbio.substack.com/p/the-latch-sdk) of the SDK
   * SDK [source code](https://github.com/latchbio/latch)
+
+[![Slack](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://latchbiosdk.slack.com/)

@@ -36,30 +36,13 @@ domains of bioinformatics featuring:
   * intuitive workflow parameters distilled from the feedback of hundreds of
     scientists
 
-#### What is Verified?
+#### Verified Workflows
 
   * [Bulk RNA-seq](https://github.com/latch-verified/bulk-rnaseq) produces transcript/gene counts from your sequencing data
   * [Differential Expression](https://github.com/latch-verified/diff-exp) creates a list of significant transcripts/genes
 from a controlled experiment
   * [Pathway Analysis](https://github.com/latch-verified/pathway) implicates pathways + gene ontologies from significant
 genes
-
-#### Why the LatchBio SDK
-
-The previous generation of bioinformatics frameworks, eg. nextflow, Snakemake,
-WDL, etc., are difficult to develop with, use outdated languages, and lack
-features needed in a modern software framework.
-
-The [LatchBio SDK](github.com/latchbio/latch) is a workflow description language
-built with an emphasis on developer ergonomics and the following
-mission-critical features:
-
-- No-code [interface generation](https://docs.latch.bio/basics/customizing_interface.html) and hosting
-- [Strong typing](https://docs.latch.bio/basics/parameter_types.html) of parameters
-- Serverless [cloud deployments](https://docs.latch.bio/basics/defining_cloud_resources.html)
-- Baked-in versioning + [containerization](https://docs.latch.bio/basics/writing_dockerfiles.html)
-- Auditable data + execution lineage
-- First-class python support (with integration for arbitrary languages)
 
 ### Further Reading
 
